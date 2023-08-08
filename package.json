@@ -1,0 +1,15 @@
+{
+  "name": "practiceone",
+  "version": "1.0.0",
+  "description": "Practice One, Asked by Professor",
+  "main": "app.js",
+  "scripts": {
+    "run": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diallo Mamadou",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
